@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y74MpXarKDfaKYeNttI8o+XN+XiAWvgUkO6eVtfZeoZNCnyDnKzjAQP+zK7S9wihposGgBnnOEzHrYk5Kuzn1w==",
+  "success": true,
+  "projectFilePath": "D:\\Hackathons\\RevUC Feb 2024\\Nonogram-Solver-New\\Nonogram-Solver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilans\\.nuget\\packages\\google.ortools\\9.8.3296\\google.ortools.9.8.3296.nupkg.sha512",
+    "C:\\Users\\ilans\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.8.3296\\google.ortools.runtime.linux-arm64.9.8.3296.nupkg.sha512",
+    "C:\\Users\\ilans\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.8.3296\\google.ortools.runtime.linux-x64.9.8.3296.nupkg.sha512",
+    "C:\\Users\\ilans\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.8.3296\\google.ortools.runtime.osx-arm64.9.8.3296.nupkg.sha512",
+    "C:\\Users\\ilans\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.8.3296\\google.ortools.runtime.osx-x64.9.8.3296.nupkg.sha512",
+    "C:\\Users\\ilans\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.8.3296\\google.ortools.runtime.win-x64.9.8.3296.nupkg.sha512",
+    "C:\\Users\\ilans\\.nuget\\packages\\google.protobuf\\3.25.0\\google.protobuf.3.25.0.nupkg.sha512",
+    "C:\\Users\\ilans\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
